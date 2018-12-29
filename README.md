@@ -1,6 +1,8 @@
 # Classification and regression models in Scikit-learn
 
-I wanted to explore Scikit-learn a little, so I build a small library that allows me to try multiple classification models and regression models at once.
+I wanted to explore Scikit-learn a little, so I built a small library that allows me to try multiple classification models and regression models at once.
+
+
 
 *** Update ***
 
